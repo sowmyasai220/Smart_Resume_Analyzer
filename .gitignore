@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+Uploaded_Resumes/
+resume_report.pdf
