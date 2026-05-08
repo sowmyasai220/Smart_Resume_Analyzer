@@ -2,7 +2,7 @@
 
 An AI-powered Resume Analyzer developed using Python, Streamlit, NLP, and Machine Learning concepts.
 
-## 🚀 Features
+##  Features
 
 * Resume Upload (PDF Support)
 * ATS Score Analysis
@@ -16,7 +16,7 @@ An AI-powered Resume Analyzer developed using Python, Streamlit, NLP, and Machin
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Streamlit
@@ -27,7 +27,7 @@ An AI-powered Resume Analyzer developed using Python, Streamlit, NLP, and Machin
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 1. User uploads resume
 2. Resume text is extracted from PDF
@@ -39,7 +39,7 @@ An AI-powered Resume Analyzer developed using Python, Streamlit, NLP, and Machin
 
 ---
 
-## 💡 Future Scope
+##  Future Scope
 
 * DOCX Resume Support
 * AI Job Recommendations
@@ -49,7 +49,7 @@ An AI-powered Resume Analyzer developed using Python, Streamlit, NLP, and Machin
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Install required packages:
 
